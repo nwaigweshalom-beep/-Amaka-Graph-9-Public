@@ -25,3 +25,5 @@ This is **Graph 9** of my ACL Agent Development journey.
 ```bash
 pip install -r requirements.txt
 python app.py
+### 📝 License
+This project is part of my portfolio. Please give credit if you reuse.
